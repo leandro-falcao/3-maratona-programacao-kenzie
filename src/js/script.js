@@ -17,7 +17,7 @@ function calculo() {
     return calcSum
 }
 
-const cabecalho = document.querySelector('header');
+const cabecalho = document.querySelector('header.cabecalho');
 
 
 const textarea = document.querySelector('textarea');
