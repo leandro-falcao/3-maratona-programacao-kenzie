@@ -1,4 +1,3 @@
-
 ## Redes
-- [linkedin](https://www.w3schools.com/tags/default.asp)
-- [Github](https://fonts.google.com/)
+- [linkedin](https://www.linkedin.com/in/leandro-falcao/)
+- [Github](https://github.com/leandro-falcao)
